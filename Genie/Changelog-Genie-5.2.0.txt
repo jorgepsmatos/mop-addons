@@ -1,0 +1,28 @@
+------------------------------------------------------------------------
+r323 | adjo | 2013-04-23 10:07:17 +0000 (Tue, 23 Apr 2013) | 1 line
+Changed paths:
+   A /tags/5.2.0 (from /trunk:322)
+
+Tagging as 5.2.0
+------------------------------------------------------------------------
+r322 | adjo | 2013-04-22 12:47:27 +0000 (Mon, 22 Apr 2013) | 1 line
+Changed paths:
+   M /trunk/Genie.toc
+   M /trunk/Modules/Genie_LDB/Genie_LDB.toc
+   M /trunk/Modules/Genie_UI/Genie_UI.toc
+
+UPDATE; .toc 50200 
+------------------------------------------------------------------------
+r321 | adjo | 2013-04-22 11:49:39 +0000 (Mon, 22 Apr 2013) | 1 line
+Changed paths:
+   A /trunk/Locale/ptBR.lua
+   M /trunk/Modules/Genie_LDB/Libs/LibDataBroker-1.1
+
+UPDATE; adding ptBR locale. thank you marciobruno and mgaedke
+------------------------------------------------------------------------
+r320 | adjo | 2013-04-22 11:43:55 +0000 (Mon, 22 Apr 2013) | 1 line
+Changed paths:
+   M /trunk/Genie.lua
+
+BUGFIX; comment #456
+------------------------------------------------------------------------
