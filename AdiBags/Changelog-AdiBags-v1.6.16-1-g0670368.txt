@@ -1,0 +1,2 @@
+Adirelle:
+	- Stacks items from different bag types when bag types are not shown on buttons.
